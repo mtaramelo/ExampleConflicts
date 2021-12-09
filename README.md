@@ -1,3 +1,4 @@
 # ExampleConflicts
 
 LOCAL
+
